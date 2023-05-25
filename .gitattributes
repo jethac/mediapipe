@@ -1,0 +1,2 @@
+# Set default behavior - always use LF, even on Windows
+* text eol=lf
